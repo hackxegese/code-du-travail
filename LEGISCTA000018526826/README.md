@@ -1,0 +1,7 @@
+# Section 2 : Associations intermédiaires
+
+* [Article R5132-11](./LEGIARTI000028651371.md)
+* [Article R5132-12](./LEGIARTI000028651375.md)
+* [Article R5132-13](./LEGIARTI000028651378.md)
+* [Article R5132-15](./LEGIARTI000028651381.md)
+* [Article R5132-16](./LEGIARTI000028651383.md)

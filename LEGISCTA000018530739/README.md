@@ -1,0 +1,10 @@
+#  Sous-section 6 : Information et formation des travailleurs
+
+* [Article R4412-86](./LEGIARTI000018530737.md)
+* [Article R4412-87](./LEGIARTI000018530735.md)
+* [Article R4412-88](./LEGIARTI000018530733.md)
+* [Article R4412-89](./LEGIARTI000018530731.md)
+* [Article R4412-90](./LEGIARTI000018530729.md)
+* [Article R4412-91](./LEGIARTI000018530727.md)
+* [Article R4412-92](./LEGIARTI000018530725.md)
+* [Article R4412-93](./LEGIARTI000018530723.md)

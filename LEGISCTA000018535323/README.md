@@ -1,0 +1,9 @@
+# Paragraphe 1 : Gestion par le comité d'entreprise
+
+* [Article R2323-21](./LEGIARTI000018535321.md)
+* [Article R2323-22](./LEGIARTI000018535319.md)
+* [Article R2323-23](./LEGIARTI000018535317.md)
+* [Article R2323-24](./LEGIARTI000018535315.md)
+* [Article R2323-25](./LEGIARTI000018535313.md)
+* [Article R2323-26](./LEGIARTI000018535311.md)
+* [Article R2323-27](./LEGIARTI000018535309.md)

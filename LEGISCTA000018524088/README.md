@@ -1,0 +1,8 @@
+# Sous-section 3 : Santé et sécurité
+
+* [Article R6222-36](./LEGIARTI000018524086.md)
+* [Article R6222-37](./LEGIARTI000018524084.md)
+* [Article R6222-38](./LEGIARTI000018524082.md)
+* [Article R6222-39](./LEGIARTI000018524080.md)
+* [Article R6222-40](./LEGIARTI000022357301.md)
+* [Article R6222-40-1](./LEGIARTI000025022141.md)

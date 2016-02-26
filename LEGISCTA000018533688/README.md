@@ -1,0 +1,6 @@
+# Sous-section 5 : Répartition
+
+* [Article R3252-34](./LEGIARTI000018533686.md)
+* [Article D3252-34-1](./LEGIARTI000026771172.md)
+* [Article R3252-35](./LEGIARTI000018533684.md)
+* [Article R3252-36](./LEGIARTI000018533682.md)

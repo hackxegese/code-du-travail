@@ -1,0 +1,8 @@
+# Paragraphe 2 : Délivrance de l'agrément
+
+* [Article R1253-21](./LEGIARTI000018537244.md)
+* [Article R1253-22](./LEGIARTI000018537242.md)
+* [Article R1253-23](./LEGIARTI000018537240.md)
+* [Article R1253-24](./LEGIARTI000018537238.md)
+* [Article R1253-25](./LEGIARTI000018537236.md)
+* [Article R1253-26](./LEGIARTI000018537234.md)

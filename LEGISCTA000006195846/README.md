@@ -1,0 +1,10 @@
+# Sous-section 4 : Associations intermédiaires.
+
+* [Article L5132-7](./LEGIARTI000027565834.md)
+* [Article L5132-8](./LEGIARTI000018766949.md)
+* [Article L5132-9](./LEGIARTI000019869558.md)
+* [Article L5132-10](./LEGIARTI000006903505.md)
+* [Article L5132-11](./LEGIARTI000018764871.md)
+* [Article L5132-11-1](./LEGIARTI000031087350.md)
+* [Article L5132-13](./LEGIARTI000006903508.md)
+* [Article L5132-14](./LEGIARTI000018764864.md)

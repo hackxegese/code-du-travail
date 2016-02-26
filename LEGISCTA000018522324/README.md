@@ -1,0 +1,8 @@
+# Section 4 : Obligations comptables
+
+* [Article D6352-16](./LEGIARTI000018522322.md)
+* [Article D6352-17](./LEGIARTI000020142805.md)
+* [Article D6352-18](./LEGIARTI000018522318.md)
+* [Article R6352-19](./LEGIARTI000018522316.md)
+* [Article R6352-20](./LEGIARTI000018522314.md)
+* [Article R6352-21](./LEGIARTI000018522312.md)

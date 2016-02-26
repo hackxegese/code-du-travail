@@ -1,0 +1,8 @@
+# Section 3 : Autres dispositions financières
+
+* [Article D1271-28](./LEGIARTI000018536992.md)
+* [Article D1271-29](./LEGIARTI000026944291.md)
+* [Article D1271-30](./LEGIARTI000018536988.md)
+* [Article D1271-31](./LEGIARTI000018536986.md)
+* [Article R1271-32](./LEGIARTI000029183476.md)
+* [Article D1271-33](./LEGIARTI000024578636.md)

@@ -1,0 +1,13 @@
+# Chapitre II : Organismes collecteurs de la taxe d'apprentissage.
+
+* [Article L6242-1](./LEGIARTI000029355070.md)
+* [Article L6242-2](./LEGIARTI000028698519.md)
+* [Article L6242-3](./LEGIARTI000006904103.md)
+* [Article L6242-3-1](./LEGIARTI000029355059.md)
+* [Article L6242-4](./LEGIARTI000028698513.md)
+* [Article L6242-5](./LEGIARTI000006904105.md)
+* [Article L6242-6](./LEGIARTI000028698549.md)
+* [Article L6242-7](./LEGIARTI000028688060.md)
+* [Article L6242-8](./LEGIARTI000028688071.md)
+* [Article L6242-9](./LEGIARTI000028688093.md)
+* [Article L6242-10](./LEGIARTI000028688038.md)

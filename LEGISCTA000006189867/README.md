@@ -1,0 +1,7 @@
+# Section 2 : Personnel.
+
+* [Article L6233-3](./LEGIARTI000006904079.md)
+* [Article L6233-4](./LEGIARTI000006904080.md)
+* [Article L6233-5](./LEGIARTI000006904081.md)
+* [Article L6233-6](./LEGIARTI000006904082.md)
+* [Article L6233-7](./LEGIARTI000006904083.md)

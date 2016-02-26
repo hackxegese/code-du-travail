@@ -1,0 +1,7 @@
+# Section 1 : Dispositions particulières à certains salariés.
+
+* [Article L5424-1](./LEGIARTI000022563372.md)
+* [Article L5424-2](./LEGIARTI000023216202.md)
+* [Article L5424-3](./LEGIARTI000006903882.md)
+* [Article L5424-4](./LEGIARTI000006903883.md)
+* [Article L5424-5](./LEGIARTI000018767241.md)

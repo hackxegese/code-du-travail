@@ -1,0 +1,8 @@
+# Chapitre II : Insertion par l'activité économique
+
+* [Article R5132-1](./LEGIARTI000028651333.md)
+* [Article R5132-2](./LEGIARTI000028976032.md)
+* [Article R5132-3](./LEGIARTI000028651340.md)
+* [Article R5132-4](./LEGIARTI000028651342.md)
+* [Article R5132-5](./LEGIARTI000028651344.md)
+* [Article R5132-6](./LEGIARTI000028651346.md)

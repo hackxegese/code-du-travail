@@ -1,0 +1,8 @@
+#  Paragraphe 1 : Conditions d'attribution.
+
+* [Article R5423-1](./LEGIARTI000018525084.md)
+* [Article R5423-2](./LEGIARTI000018525082.md)
+* [Article R5423-3](./LEGIARTI000018525080.md)
+* [Article R5423-4](./LEGIARTI000018525078.md)
+* [Article R5423-5](./LEGIARTI000020398006.md)
+* [Article R5423-6](./LEGIARTI000018525074.md)

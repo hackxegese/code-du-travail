@@ -1,0 +1,6 @@
+# Section 4 : Départage
+
+* [Article R1454-29](./LEGIARTI000018536000.md)
+* [Article R1454-30](./LEGIARTI000018535998.md)
+* [Article R1454-31](./LEGIARTI000018535996.md)
+* [Article R1454-32](./LEGIARTI000018535994.md)

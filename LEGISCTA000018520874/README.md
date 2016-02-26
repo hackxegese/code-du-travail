@@ -1,0 +1,8 @@
+# Chapitre II : Compétences des agents
+
+* [Article R8112-1](./LEGIARTI000022348393.md)
+* [Article R8112-2](./LEGIARTI000018520870.md)
+* [Article R8112-3](./LEGIARTI000018520868.md)
+* [Article R8112-4](./LEGIARTI000018520866.md)
+* [Article R8112-5](./LEGIARTI000018520864.md)
+* [Article R8112-6](./LEGIARTI000025077364.md)

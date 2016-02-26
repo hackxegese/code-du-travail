@@ -1,0 +1,8 @@
+# Paragraphe 2 : Conditions de prise en charge
+
+* [Article R6322-22](./LEGIARTI000018523212.md)
+* [Article R6322-23](./LEGIARTI000018523210.md)
+* [Article R6322-24](./LEGIARTI000018523208.md)
+* [Article R6322-25](./LEGIARTI000018523206.md)
+* [Article R6322-26](./LEGIARTI000018523204.md)
+* [Article R6322-27](./LEGIARTI000018523202.md)

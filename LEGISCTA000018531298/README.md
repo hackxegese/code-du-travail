@@ -1,0 +1,7 @@
+#  Sous-section 2 : Vérifications périodiques
+
+* [Article R4323-99](./LEGIARTI000018531296.md)
+* [Article R4323-100](./LEGIARTI000018531294.md)
+* [Article R4323-101](./LEGIARTI000018531292.md)
+* [Article R4323-102](./LEGIARTI000018531290.md)
+* [Article R4323-103](./LEGIARTI000018531288.md)

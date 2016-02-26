@@ -1,0 +1,7 @@
+# Sous-section 2 : Opposition
+
+* [Article D1253-7](./LEGIARTI000018537284.md)
+* [Article D1253-8](./LEGIARTI000018537282.md)
+* [Article D1253-9](./LEGIARTI000022357001.md)
+* [Article D1253-10](./LEGIARTI000018537278.md)
+* [Article D1253-11](./LEGIARTI000018537276.md)

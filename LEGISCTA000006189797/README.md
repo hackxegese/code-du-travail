@@ -1,0 +1,7 @@
+# Section 2 : Obligation d'emploi.
+
+* [Article L5212-2](./LEGIARTI000006903680.md)
+* [Article L5212-3](./LEGIARTI000006903682.md)
+* [Article L5212-4](./LEGIARTI000025578832.md)
+* [Article L5212-5](./LEGIARTI000023384127.md)
+* [Article L5212-5-1](./LEGIARTI000031597729.md)

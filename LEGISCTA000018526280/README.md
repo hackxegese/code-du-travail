@@ -1,0 +1,8 @@
+# Section 2 : Exonérations de charges sociales
+
+* [Article R5141-7](./LEGIARTI000031694633.md)
+* [Article R5141-8](./LEGIARTI000018526276.md)
+* [Article R5141-9](./LEGIARTI000018526274.md)
+* [Article R5141-10](./LEGIARTI000018526272.md)
+* [Article R5141-11](./LEGIARTI000018526270.md)
+* [Article R5141-12](./LEGIARTI000018526268.md)

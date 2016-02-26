@@ -1,0 +1,11 @@
+#  Sous-section 4 : Allocation forfaitaire du contrat nouvelles embauches.
+
+* [Article D5423-38](./LEGIARTI000018524992.md)
+* [Article D5423-39](./LEGIARTI000018524990.md)
+* [Article D5423-40](./LEGIARTI000018524988.md)
+* [Article R5423-41](./LEGIARTI000018524986.md)
+* [Article R5423-42](./LEGIARTI000018524984.md)
+* [Article R5423-43](./LEGIARTI000018524982.md)
+* [Article R5423-44](./LEGIARTI000018524980.md)
+* [Article R5423-46](./LEGIARTI000018524976.md)
+* [Article R5423-47](./LEGIARTI000018524974.md)

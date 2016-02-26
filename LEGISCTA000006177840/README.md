@@ -1,0 +1,9 @@
+# Chapitre II : Dispositions générales.
+
+* [Article L1142-1](./LEGIARTI000006900801.md)
+* [Article L1142-2](./LEGIARTI000018881599.md)
+* [Article L1142-2-1](./LEGIARTI000031072447.md)
+* [Article L1142-3](./LEGIARTI000026799923.md)
+* [Article L1142-4](./LEGIARTI000006900804.md)
+* [Article L1142-5](./LEGIARTI000019356848.md)
+* [Article L1142-6](./LEGIARTI000029144893.md)

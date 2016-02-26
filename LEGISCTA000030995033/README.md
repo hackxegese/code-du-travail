@@ -1,0 +1,10 @@
+# Sous-paragraphe 2 : Dérogations sur un fondement géographique
+
+* [Article L3132-24](./LEGIARTI000031013460.md)
+* [Article L3132-25](./LEGIARTI000031013500.md)
+* [Article L3132-25-1](./LEGIARTI000031013495.md)
+* [Article L3132-25-2](./LEGIARTI000031013489.md)
+* [Article L3132-25-3](./LEGIARTI000031013483.md)
+* [Article L3132-25-4](./LEGIARTI000031013476.md)
+* [Article L3132-25-5](./LEGIARTI000031013468.md)
+* [Article L3132-25-6](./LEGIARTI000031013463.md)

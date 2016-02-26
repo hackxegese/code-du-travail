@@ -1,0 +1,10 @@
+# Section 1 : Absences pour maladie ou accident
+
+* [Article D1226-1](./LEGIARTI000018537770.md)
+* [Article D1226-2](./LEGIARTI000019225871.md)
+* [Article D1226-3](./LEGIARTI000019225874.md)
+* [Article D1226-4](./LEGIARTI000018537764.md)
+* [Article D1226-5](./LEGIARTI000018537762.md)
+* [Article D1226-6](./LEGIARTI000018537760.md)
+* [Article D1226-7](./LEGIARTI000018537758.md)
+* [Article D1226-8](./LEGIARTI000018537756.md)

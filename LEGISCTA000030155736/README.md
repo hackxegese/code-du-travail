@@ -1,0 +1,6 @@
+# Paragraphe 2 : Fonctionnement
+
+* [Article R5213-70](./LEGIARTI000018525916.md)
+* [Article R5213-71](./LEGIARTI000018525914.md)
+* [Article R5213-72](./LEGIARTI000018525912.md)
+* [Article R5213-73](./LEGIARTI000018525910.md)

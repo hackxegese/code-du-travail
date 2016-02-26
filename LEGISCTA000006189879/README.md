@@ -1,0 +1,5 @@
+# Section 3 : Sanctions.
+
+* [Article L6252-10](./LEGIARTI000006904121.md)
+* [Article L6252-11](./LEGIARTI000006904122.md)
+* [Article L6252-12](./LEGIARTI000028699371.md)

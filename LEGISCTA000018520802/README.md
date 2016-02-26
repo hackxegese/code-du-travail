@@ -1,0 +1,6 @@
+# Sous-section 3 : Fonctionnement
+
+* [Article D8121-9](./LEGIARTI000018520800.md)
+* [Article D8121-10](./LEGIARTI000018520798.md)
+* [Article D8121-11](./LEGIARTI000018520796.md)
+* [Article D8121-12](./LEGIARTI000018520794.md)

@@ -1,0 +1,10 @@
+# Sous-section 3 : Procédures d'extension et d'élargissement.
+
+* [Article L2261-24](./LEGIARTI000006901802.md)
+* [Article L2261-25](./LEGIARTI000006901803.md)
+* [Article L2261-26](./LEGIARTI000006901804.md)
+* [Article L2261-27](./LEGIARTI000006901805.md)
+* [Article L2261-28](./LEGIARTI000006901806.md)
+* [Article L2261-29](./LEGIARTI000006901807.md)
+* [Article L2261-30](./LEGIARTI000006901808.md)
+* [Article L2261-31](./LEGIARTI000006901809.md)

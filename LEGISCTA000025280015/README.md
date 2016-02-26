@@ -1,0 +1,5 @@
+# Paragraphe 3 : Secteurs.
+
+* [Article D4622-25](./LEGIARTI000025271832.md)
+* [Article D4622-26](./LEGIARTI000025280119.md)
+* [Article D4622-27](./LEGIARTI000025280117.md)

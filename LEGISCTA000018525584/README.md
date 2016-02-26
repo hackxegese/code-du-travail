@@ -1,0 +1,6 @@
+# Section 3 : Ressources
+
+* [Article R5223-35](./LEGIARTI000025463303.md)
+* [Article R5223-37](./LEGIARTI000026616832.md)
+* [Article R5223-38](./LEGIARTI000026616829.md)
+* [Article R5223-39](./LEGIARTI000026616826.md)

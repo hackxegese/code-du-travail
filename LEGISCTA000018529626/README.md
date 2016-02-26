@@ -1,0 +1,6 @@
+#  Section 4 : Fonctionnement.
+
+* [Article R4524-7](./LEGIARTI000022357099.md)
+* [Article R4524-8](./LEGIARTI000018529622.md)
+* [Article R4524-9](./LEGIARTI000018529620.md)
+* [Article R4524-10](./LEGIARTI000018529618.md)

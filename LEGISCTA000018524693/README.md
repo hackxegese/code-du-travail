@@ -1,0 +1,16 @@
+#  Section 2 : Gestion confiée à un établissement public  en l'absence de convention.
+
+* [Article D5427-2](./LEGIARTI000018524690.md)
+* [Article D5427-3](./LEGIARTI000018524688.md)
+* [Article D5427-4](./LEGIARTI000018524686.md)
+* [Article D5427-5](./LEGIARTI000018524684.md)
+* [Article D5427-6](./LEGIARTI000029026636.md)
+* [Article D5427-7](./LEGIARTI000029026641.md)
+* [Article D5427-8](./LEGIARTI000018524678.md)
+* [Article D5427-9](./LEGIARTI000018524676.md)
+* [Article D5427-10](./LEGIARTI000018524674.md)
+* [Article D5427-11](./LEGIARTI000026735916.md)
+* [Article D5427-12](./LEGIARTI000018524670.md)
+* [Article D5427-13](./LEGIARTI000018524668.md)
+* [Article D5427-14](./LEGIARTI000018524666.md)
+* [Article D5427-15](./LEGIARTI000018524664.md)

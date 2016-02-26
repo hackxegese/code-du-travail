@@ -1,0 +1,12 @@
+# Sous-section 2 : Désignation, élection et statut des membres &#13;
+
+
+* [Article R2372-5](./LEGIARTI000019719802.md)
+* [Article D2372-6](./LEGIARTI000019719894.md)
+* [Article D2372-7](./LEGIARTI000019719888.md)
+* [Article D2372-8](./LEGIARTI000019719878.md)
+* [Article D2372-9](./LEGIARTI000019719870.md)
+* [Article D2372-10](./LEGIARTI000019719863.md)
+* [Article D2372-11](./LEGIARTI000019719857.md)
+* [Article D2372-12](./LEGIARTI000019719853.md)
+* [Article D2372-13](./LEGIARTI000019719850.md)

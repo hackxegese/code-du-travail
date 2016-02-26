@@ -1,0 +1,7 @@
+# Paragraphe 3 : Commune d'inscription
+
+* [Article R1441-15](./LEGIARTI000018536583.md)
+* [Article R1441-16](./LEGIARTI000018536581.md)
+* [Article R1441-17](./LEGIARTI000018536579.md)
+* [Article R1441-18](./LEGIARTI000018536577.md)
+* [Article R1441-19](./LEGIARTI000018536575.md)

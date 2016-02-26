@@ -1,0 +1,9 @@
+# Section 1 : Médecin inspecteur du travail
+
+* [Article R8123-1](./LEGIARTI000020082860.md)
+* [Article D8123-2](./LEGIARTI000018520756.md)
+* [Article D8123-3](./LEGIARTI000018520754.md)
+* [Article D8123-4](./LEGIARTI000018520752.md)
+* [Article D8123-5](./LEGIARTI000018520750.md)
+* [Article R8123-6](./LEGIARTI000022356468.md)
+* [Article R8123-7](./LEGIARTI000018520746.md)

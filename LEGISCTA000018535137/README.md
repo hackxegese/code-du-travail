@@ -1,0 +1,6 @@
+# Chapitre Ier : Mise en place
+
+* [Article R2331-1](./LEGIARTI000018535135.md)
+* [Article R2331-2](./LEGIARTI000018535133.md)
+* [Article R2331-3](./LEGIARTI000018535131.md)
+* [Article R2331-4](./LEGIARTI000018535129.md)

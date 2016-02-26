@@ -1,0 +1,8 @@
+# Chapitre III : Régime de solidarité
+
+* [Article L5423-1](./LEGIARTI000006903847.md)
+* [Article L5423-2](./LEGIARTI000006903848.md)
+* [Article L5423-3](./LEGIARTI000006903849.md)
+* [Article L5423-4](./LEGIARTI000006903850.md)
+* [Article L5423-5](./LEGIARTI000025075401.md)
+* [Article L5423-6](./LEGIARTI000031781118.md)

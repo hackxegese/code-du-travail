@@ -1,0 +1,7 @@
+# Paragraphe 2 : Modalités de négociation.
+
+* [Article L2232-16](./LEGIARTI000006901703.md)
+* [Article L2232-17](./LEGIARTI000006901704.md)
+* [Article L2232-18](./LEGIARTI000006901705.md)
+* [Article L2232-19](./LEGIARTI000006901706.md)
+* [Article L2232-20](./LEGIARTI000006901707.md)

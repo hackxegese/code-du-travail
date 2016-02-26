@@ -1,0 +1,6 @@
+# Paragraphe 2 : Habilitation
+
+* [Article R6332-68](./LEGIARTI000022850553.md)
+* [Article R6332-69](./LEGIARTI000029643542.md)
+* [Article R6332-70](./LEGIARTI000022850548.md)
+* [Article R6332-71](./LEGIARTI000022850550.md)

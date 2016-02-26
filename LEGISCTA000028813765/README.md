@@ -1,0 +1,9 @@
+# Sous-section 5 : Revitalisation des bassins d'emploi.
+
+* [Article L1233-84](./LEGIARTI000006901102.md)
+* [Article L1233-85](./LEGIARTI000006901103.md)
+* [Article L1233-86](./LEGIARTI000006901104.md)
+* [Article L1233-87](./LEGIARTI000025579017.md)
+* [Article L1233-88](./LEGIARTI000006901106.md)
+* [Article L1233-89](./LEGIARTI000006901109.md)
+* [Article L1233-90](./LEGIARTI000006901110.md)

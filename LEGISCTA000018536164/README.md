@@ -1,0 +1,7 @@
+# Section 2 : Exercice du mandat
+
+* [Article D1442-11](./LEGIARTI000018536160.md)
+* [Article D1442-12](./LEGIARTI000018536158.md)
+* [Article D1442-13](./LEGIARTI000018536156.md)
+* [Article D1442-14](./LEGIARTI000018536154.md)
+* [Article D1442-15](./LEGIARTI000018536152.md)

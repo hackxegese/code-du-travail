@@ -1,0 +1,7 @@
+# Paragraphe 6 : Contrôle et comptabilité
+
+* [Article R6332-38](./LEGIARTI000029643376.md)
+* [Article R6332-39](./LEGIARTI000029643374.md)
+* [Article R6332-40](./LEGIARTI000029643371.md)
+* [Article R6332-41](./LEGIARTI000029643369.md)
+* [Article R6332-42](./LEGIARTI000029643367.md)

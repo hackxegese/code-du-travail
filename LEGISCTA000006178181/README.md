@@ -1,0 +1,6 @@
+# Chapitre II : Rôle de l'Etat.
+
+* [Article L6122-1](./LEGIARTI000031086129.md)
+* [Article L6122-2](./LEGIARTI000031843532.md)
+* [Article L6122-3](./LEGIARTI000006903987.md)
+* [Article L6122-4](./LEGIARTI000022234976.md)

@@ -1,0 +1,7 @@
+# Paragraphe 4 : Financement du congé.
+
+* [Article L6322-37](./LEGIARTI000028698154.md)
+* [Article L6322-38](./LEGIARTI000006904196.md)
+* [Article L6322-39](./LEGIARTI000006904197.md)
+* [Article L6322-40](./LEGIARTI000006904198.md)
+* [Article L6322-41](./LEGIARTI000006904199.md)

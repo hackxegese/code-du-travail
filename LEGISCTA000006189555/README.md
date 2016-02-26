@@ -1,0 +1,7 @@
+# Section 3 : Durée et fin du mandat.
+
+* [Article L2324-24](./LEGIARTI000006902048.md)
+* [Article L2324-25](./LEGIARTI000006902049.md)
+* [Article L2324-26](./LEGIARTI000006902050.md)
+* [Article L2324-27](./LEGIARTI000006902051.md)
+* [Article L2324-28](./LEGIARTI000006902052.md)

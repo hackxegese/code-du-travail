@@ -1,0 +1,8 @@
+# Sous-section 2 : Aide au projet initiative-jeune.
+
+* [Article L5522-22](./LEGIARTI000031013672.md)
+* [Article L5522-23](./LEGIARTI000020675824.md)
+* [Article L5522-24](./LEGIARTI000020675821.md)
+* [Article L5522-25](./LEGIARTI000020675816.md)
+* [Article L5522-26](./LEGIARTI000020675814.md)
+* [Article L5522-27](./LEGIARTI000020675812.md)

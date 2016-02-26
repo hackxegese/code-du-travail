@@ -1,0 +1,7 @@
+# Paragraphe 1 : Contrat d'objectifs
+
+* [Article R5213-65](./LEGIARTI000030155706.md)
+* [Article R5213-66](./LEGIARTI000018525926.md)
+* [Article R5213-67](./LEGIARTI000018525924.md)
+* [Article R5213-68](./LEGIARTI000030155710.md)
+* [Article R5213-69](./LEGIARTI000018525920.md)

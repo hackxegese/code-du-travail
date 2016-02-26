@@ -1,0 +1,6 @@
+#  Section 4 : Chauffage des locaux
+
+* [Article R4216-17](./LEGIARTI000018532402.md)
+* [Article R4216-18](./LEGIARTI000018532400.md)
+* [Article R4216-19](./LEGIARTI000018532398.md)
+* [Article R4216-20](./LEGIARTI000018532396.md)

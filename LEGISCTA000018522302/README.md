@@ -1,0 +1,9 @@
+# Section 6 : Centres de formation professionnelle
+
+* [Article D6352-25](./LEGIARTI000018522298.md)
+* [Article D6352-26](./LEGIARTI000018522296.md)
+* [Article R6352-27](./LEGIARTI000018522294.md)
+* [Article D6352-28](./LEGIARTI000018522292.md)
+* [Article D6352-29](./LEGIARTI000018522290.md)
+* [Article D6352-30](./LEGIARTI000018522288.md)
+* [Article D6352-31](./LEGIARTI000018522286.md)

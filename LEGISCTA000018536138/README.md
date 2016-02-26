@@ -1,0 +1,7 @@
+# Sous-section unique : Discipline
+
+* [Article D1442-20](./LEGIARTI000018536136.md)
+* [Article D1442-21](./LEGIARTI000018536134.md)
+* [Article D1442-22](./LEGIARTI000018536132.md)
+* [Article D1442-23](./LEGIARTI000018536130.md)
+* [Article D1442-24](./LEGIARTI000018536128.md)

@@ -1,0 +1,8 @@
+# Section 3 : Durée et fin du mandat.
+
+* [Article L2314-26](./LEGIARTI000006901900.md)
+* [Article L2314-27](./LEGIARTI000006901901.md)
+* [Article L2314-28](./LEGIARTI000006901902.md)
+* [Article L2314-29](./LEGIARTI000006901903.md)
+* [Article L2314-30](./LEGIARTI000006901904.md)
+* [Article L2314-31](./LEGIARTI000031013607.md)

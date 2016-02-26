@@ -1,0 +1,8 @@
+#  Section 5 : Moyens de prévention  et de lutte contre l'incendie
+
+* [Article R4227-28](./LEGIARTI000018532081.md)
+* [Article R4227-29](./LEGIARTI000018532079.md)
+* [Article R4227-30](./LEGIARTI000018532077.md)
+* [Article R4227-31](./LEGIARTI000018532075.md)
+* [Article R4227-32](./LEGIARTI000018532073.md)
+* [Article R4227-33](./LEGIARTI000018532071.md)

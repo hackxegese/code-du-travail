@@ -1,0 +1,7 @@
+# Sous-section 7 : Congé de représentation.
+
+* [Article L3142-51](./LEGIARTI000018765087.md)
+* [Article L3142-52](./LEGIARTI000018765255.md)
+* [Article L3142-53](./LEGIARTI000018765252.md)
+* [Article L3142-54](./LEGIARTI000018765249.md)
+* [Article L3142-55](./LEGIARTI000018765246.md)

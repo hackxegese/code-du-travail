@@ -1,0 +1,13 @@
+# Chapitre Ier : Obligation générale d'information et de formation
+
+* [Article R4141-1](./LEGIARTI000018532882.md)
+* [Article R4141-2](./LEGIARTI000019960813.md)
+* [Article R4141-3](./LEGIARTI000018532878.md)
+* [Article R4141-3-1](./LEGIARTI000021723595.md)
+* [Article R4141-4](./LEGIARTI000018532876.md)
+* [Article R4141-5](./LEGIARTI000019960820.md)
+* [Article R4141-6](./LEGIARTI000019960823.md)
+* [Article R4141-7](./LEGIARTI000018532870.md)
+* [Article R4141-8](./LEGIARTI000018532868.md)
+* [Article R4141-9](./LEGIARTI000018532866.md)
+* [Article R4141-10](./LEGIARTI000018532864.md)

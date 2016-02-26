@@ -1,0 +1,6 @@
+# Sous-section 3 : Fonctionnement.
+
+* [Article D2362-14](./LEGIARTI000018776771.md)
+* [Article D2362-15](./LEGIARTI000018776769.md)
+* [Article D2362-16](./LEGIARTI000018776764.md)
+* [Article R2362-17](./LEGIARTI000018776727.md)

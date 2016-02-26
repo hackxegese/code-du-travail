@@ -1,0 +1,11 @@
+# Sous-section 2 : Désignation, élection et statut des membres.
+
+* [Article R2362-5](./LEGIARTI000018776736.md)
+* [Article D2362-6](./LEGIARTI000018776796.md)
+* [Article D2362-7](./LEGIARTI000018776794.md)
+* [Article D2362-8](./LEGIARTI000018776790.md)
+* [Article D2362-9](./LEGIARTI000018776788.md)
+* [Article D2362-10](./LEGIARTI000018776784.md)
+* [Article D2362-11](./LEGIARTI000018776781.md)
+* [Article D2362-12](./LEGIARTI000018776777.md)
+* [Article D2362-13](./LEGIARTI000018776774.md)

@@ -1,0 +1,6 @@
+# Sous-section 2 : Fin du mandat
+
+* [Article D1442-16](./LEGIARTI000018536148.md)
+* [Article D1442-17](./LEGIARTI000018536146.md)
+* [Article D1442-18](./LEGIARTI000018536144.md)
+* [Article D1442-19](./LEGIARTI000018536142.md)

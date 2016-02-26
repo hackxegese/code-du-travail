@@ -1,0 +1,6 @@
+#  Section 3 : Désenfumage
+
+* [Article R4216-13](./LEGIARTI000018532412.md)
+* [Article R4216-14](./LEGIARTI000018532410.md)
+* [Article R4216-15](./LEGIARTI000018532408.md)
+* [Article R4216-16](./LEGIARTI000018532406.md)

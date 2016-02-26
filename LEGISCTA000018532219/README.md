@@ -1,0 +1,7 @@
+#  Section 2 : Portes et portails
+
+* [Article R4224-9](./LEGIARTI000018532217.md)
+* [Article R4224-10](./LEGIARTI000018532215.md)
+* [Article R4224-11](./LEGIARTI000018532213.md)
+* [Article R4224-12](./LEGIARTI000018532211.md)
+* [Article R4224-13](./LEGIARTI000018532209.md)

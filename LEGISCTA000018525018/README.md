@@ -1,0 +1,6 @@
+#  Paragraphe 2 : Versement.
+
+* [Article R5423-28](./LEGIARTI000018525016.md)
+* [Article R5423-29](./LEGIARTI000018525014.md)
+* [Article R5423-30](./LEGIARTI000030801013.md)
+* [Article R5423-30-1](./LEGIARTI000030788683.md)

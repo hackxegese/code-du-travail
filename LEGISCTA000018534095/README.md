@@ -1,0 +1,7 @@
+# Paragraphe 3 : Dispositions communes
+
+* [Article D3142-49](./LEGIARTI000018534093.md)
+* [Article D3142-50](./LEGIARTI000018534091.md)
+* [Article D3142-51](./LEGIARTI000018534089.md)
+* [Article D3142-52](./LEGIARTI000018534087.md)
+* [Article D3142-53](./LEGIARTI000018534085.md)

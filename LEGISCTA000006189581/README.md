@@ -1,0 +1,7 @@
+# Section 2 : Contenu de l'accord.
+
+* [Article L2352-16](./LEGIARTI000006902231.md)
+* [Article L2352-17](./LEGIARTI000006902232.md)
+* [Article L2352-18](./LEGIARTI000006902233.md)
+* [Article L2352-19](./LEGIARTI000006902239.md)
+* [Article L2352-20](./LEGIARTI000006902240.md)

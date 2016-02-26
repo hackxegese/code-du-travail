@@ -1,0 +1,11 @@
+# Sous-section 1 : Mission générale d'information et de consultation du comité d'entreprise.
+
+* [Article L2323-1](./LEGIARTI000031086052.md)
+* [Article L2323-2](./LEGIARTI000031086046.md)
+* [Article L2323-3](./LEGIARTI000031085502.md)
+* [Article L2323-4](./LEGIARTI000031086171.md)
+* [Article L2323-5](./LEGIARTI000006901935.md)
+* [Article L2323-6](./LEGIARTI000031086043.md)
+* [Article L2323-7](./LEGIARTI000031085924.md)
+* [Article L2323-8](./LEGIARTI000031085987.md)
+* [Article L2323-9](./LEGIARTI000031085978.md)

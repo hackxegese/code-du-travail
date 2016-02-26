@@ -1,0 +1,13 @@
+# Section 6 : Système d'information du compte personnel de formation&#13;
+
+
+* [Article R6323-12](./LEGIARTI000030045772.md)
+* [Article R6323-13](./LEGIARTI000030045774.md)
+* [Article R6323-14](./LEGIARTI000030045776.md)
+* [Article R6323-15](./LEGIARTI000030045778.md)
+* [Article R6323-16](./LEGIARTI000030045780.md)
+* [Article R6323-17](./LEGIARTI000030045782.md)
+* [Article R6323-18](./LEGIARTI000030045784.md)
+* [Article R6323-19](./LEGIARTI000030045786.md)
+* [Article R6323-20](./LEGIARTI000030045788.md)
+* [Article R6323-21](./LEGIARTI000030045790.md)

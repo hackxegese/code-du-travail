@@ -1,0 +1,7 @@
+# Sous-section 1 : Objet et adhésion
+
+* [Article R1253-14](./LEGIARTI000022265984.md)
+* [Article R1253-15](./LEGIARTI000018537262.md)
+* [Article R1253-16](./LEGIARTI000018537260.md)
+* [Article R1253-17](./LEGIARTI000018537258.md)
+* [Article R1253-18](./LEGIARTI000018537256.md)

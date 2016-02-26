@@ -1,0 +1,9 @@
+# Sous-section 2 : Organisation de l'enseignement
+
+* [Article R6233-55](./LEGIARTI000018523646.md)
+* [Article R6233-56](./LEGIARTI000018523644.md)
+* [Article R6233-57](./LEGIARTI000018523642.md)
+* [Article R6233-58](./LEGIARTI000018523640.md)
+* [Article R6233-59](./LEGIARTI000018523638.md)
+* [Article R6233-60](./LEGIARTI000018523636.md)
+* [Article R6233-61](./LEGIARTI000018523634.md)

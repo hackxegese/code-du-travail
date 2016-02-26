@@ -1,0 +1,6 @@
+# Section 3 : Adhésion.
+
+* [Article L2261-3](./LEGIARTI000006901781.md)
+* [Article L2261-4](./LEGIARTI000006901782.md)
+* [Article L2261-5](./LEGIARTI000006901783.md)
+* [Article L2261-6](./LEGIARTI000006901784.md)

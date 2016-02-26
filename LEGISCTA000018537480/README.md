@@ -1,0 +1,8 @@
+# Chapitre VIII : Dispositions pénales
+
+* [Article R1238-1](./LEGIARTI000018537478.md)
+* [Article R1238-2](./LEGIARTI000020397962.md)
+* [Article R1238-3](./LEGIARTI000018537474.md)
+* [Article R1238-5](./LEGIARTI000018537470.md)
+* [Article R1238-6](./LEGIARTI000018537468.md)
+* [Article R1238-7](./LEGIARTI000018537466.md)

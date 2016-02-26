@@ -1,0 +1,5 @@
+#  Paragraphe 6 : Formation
+
+* [Article R4412-141](./LEGIARTI000027677713.md)
+* [Article R4412-142](./LEGIARTI000025818865.md)
+* [Article R4412-143](./LEGIARTI000025818861.md)

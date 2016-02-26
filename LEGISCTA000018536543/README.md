@@ -1,0 +1,8 @@
+# Paragraphe 3 : Traitement des données électorales
+
+* [Article R1441-30](./LEGIARTI000018536541.md)
+* [Article R1441-31](./LEGIARTI000018536539.md)
+* [Article R1441-32](./LEGIARTI000021290376.md)
+* [Article R1441-33](./LEGIARTI000018536535.md)
+* [Article R1441-34](./LEGIARTI000018536533.md)
+* [Article R1441-35](./LEGIARTI000018536531.md)
